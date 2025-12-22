@@ -1,0 +1,27 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+// Function to reverse the input vector of characters in-place
+void reverseString(vector<char>& s) {
+    int left = 0, right = s.size() - 1;
+    while (left < right) {
+        swap(s[left], s[right]);
+        left++;
+        right--;
+    }
+}
+
+int main() {
+    // Example usage
+    vector<char> s = {'h', 'e', 'l', 'l', 'o'};
+    reverseString(s);
+
+    // Output the reversed string
+    for (char c : s) {
+        cout << c;
+    }
+    cout << endl;
+
+    return 0;
+}
