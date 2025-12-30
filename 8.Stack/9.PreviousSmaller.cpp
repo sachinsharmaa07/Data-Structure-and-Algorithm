@@ -1,0 +1,39 @@
+#include<iostream>
+using namespace std;
+#include<vector>
+#include<stack>
+
+// Function to find previous smaller element for each element in the vector
+vector<int> PrevSmaller(vector<int> vec){
+    stack<int> s;
+    vector<int> ans(vec.size());
+    
+    // Traverse array from left to right
+    for(int i=0; i<vec.size(); i++){
+        // Pop elements from stack that are >= current element
+        while(s.size()>0 && s.top()>=vec[i]){
+            s.pop();
+        }
+        // If stack is empty, no smaller element exists
+        if(s.empty()){
+            ans[i]=-1;
+        }
+        else{
+            // Top of stack is the previous smaller element
+            ans[i]=s.top();
+        }
+        // Push current element to stack
+        s.push(vec[i]);
+    }
+    return ans;
+}
+
+int main(){
+    vector<int> vec={2,1,5,3,4};
+    vector<int> result=PrevSmaller(vec);
+    // Print results
+    for(int i=0; i<result.size(); i++){
+        cout<<result[i]<<" ";
+    }
+    return 0;
+}
