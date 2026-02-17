@@ -24,7 +24,7 @@ vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         
         // Changed from ans[nums1.size()] to ans(nums1.size())
         vector<int> ans(nums1.size());
-        for(int i=0; i<nums1.size(); i++){
+        for(int i=0; i<nums1.size(); i++){ 
             ans[i]=mp[nums1[i]];
         }
     return ans;
