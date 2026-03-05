@@ -5,6 +5,9 @@ using namespace std;
     queue<int> reverseFirstK(queue<int> q, int k) {
         stack<int> s;
         int n=q.size();
+        if(k>n || k==0){
+            return q;
+        }
         for(int i=0;i<k;i++){
             s.push(q.front());
             q.pop();
