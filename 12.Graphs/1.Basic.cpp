@@ -25,41 +25,40 @@ class Graph{
         }
     }
     void bfsTraversal(){
-        queue<int> q;
+        queue<int>q;
+        vector<bool>vis(v,false);
         q.push(0);
-        vector<int>visited(v,false);
-        visited[0]=true;
+        vis[0]=true;
         while(q.size()>0){
             int u=q.front();
-            q.pop();
             cout<<u<<" ";
-            for(int v: l[u]){
-                if(!visited[v]){
-                    visited[v]=true;
+            q.pop();
+            for(int v:l[u]){
+                if(!vis[v]){
+                    vis[v]=true;
                     q.push(v);
                 }
             }
         }
     }
     void dfsTraversal(int u,vector<bool>&visited){
-        cout<<u<<" ";
-        visited[u]=true;
-        for(int v:l[u]){
-            if(!visited[v]){
-                dfsTraversal(v,visited);
-            }
+       visited[u]=true;
+       cout<<u<<" ";
+       for(int v:l[u]) {
+        if(!visited[v]){
+            dfsTraversal(v,visited);
         }
-        }
+       }
+    }
 };
 int main(){
     Graph g(4);
     g.addEdge(0,1);
-    g.addEdge(0,2);
     g.addEdge(1,2);
     g.addEdge(1,3);
-    g.addEdge(2,3);
-    g.addEdge(3,0);
-    g.addEdge(3,1);
+    g.addEdge(2,4);
+    
+
 
     g.printGraph();
     g.bfsTraversal();
