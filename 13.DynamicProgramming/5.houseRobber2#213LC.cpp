@@ -30,5 +30,5 @@ using namespace std;
     int main() {
         vector<int> nums={1,2,3,1};
         vector<int> dp(nums.size(),-1);
-        cout<< solve(0,nums,dp)<<solve2(nums.size(),nums);
+       cout<<min(solve(0,nums,dp),solve2(nums.size(),nums))<<endl;
     }
