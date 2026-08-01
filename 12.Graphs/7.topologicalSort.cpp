@@ -25,7 +25,7 @@ class Graph{
        }
         st.push(u);
     }
-    void sort(){
+    void sort(){555
         vector<bool>vis(v,false);
         stack<int>st;
         for(int i=0;i<v;i++){
