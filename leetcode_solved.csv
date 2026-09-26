@@ -1,0 +1,148 @@
+Number,Problem,Difficulty,URL
+1,Pattern Drawing I,Unknown,
+2,Pattern Drawing II,Unknown,
+3,Pattern Drawing III,Unknown,
+7,Reverse Integer,Unknown,https://leetcode.com/problems/reverse-integer/
+5,Euclidean GCD Algorithm,Unknown,
+6,Rubbish,Unknown,
+7,C++ STL Basics & Container Overview,Unknown,
+8,D2 B,Unknown,
+9,Check Even,Unknown,
+10,Array Basics & Reversal Techniques,Unknown,
+11,Bubble Sort Implementation,Unknown,
+704,Binary Search,Unknown,https://leetcode.com/problems/binary-search/
+13,Decimal to Binary Converter,Unknown,
+14,Binary to Decimal Converter,Unknown,
+50,Pow via Binary Exponentiation,Unknown,https://leetcode.com/problems/pow-via-binary-exponentiation/
+852,Peak Index in a Mountain Array,Unknown,https://leetcode.com/problems/peak-index-in-a-mountain-array/
+540,Single Element in a Sorted Array,Unknown,https://leetcode.com/problems/single-element-in-a-sorted-array/
+33,Search in Rotated Sorted Array,Unknown,https://leetcode.com/problems/search-in-rotated-sorted-array/
+81,Search in Rotated Sorted Array II,Unknown,https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+1,Two Sum,Unknown,https://leetcode.com/problems/two-sum/
+167,Two Sum II - Input Array Is Sorted,Unknown,https://leetcode.com/problems/two-sum-ii---input-array-is-sorted/
+53,Maximum Subarray,Unknown,https://leetcode.com/problems/maximum-subarray/
+53,Maximum Subarray,Unknown,https://leetcode.com/problems/maximum-subarray/
+11,Container With Most Water,Unknown,https://leetcode.com/problems/container-with-most-water/
+11,Container With Most Water,Unknown,https://leetcode.com/problems/container-with-most-water/
+121,Best Time to Buy and Sell Stock,Unknown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+169,Majority Element,Unknown,https://leetcode.com/problems/majority-element/
+169,Majority Element,Unknown,https://leetcode.com/problems/majority-element/
+238,Product of Array Except Self,Unknown,https://leetcode.com/problems/product-of-array-except-self/
+238,Product of Array Except Self,Unknown,https://leetcode.com/problems/product-of-array-except-self/
+238,Product of Array Except Self  Space),Unknown,https://leetcode.com/problems/product-of-array-except-self-space/
+75,Sort Colors / Dutch National Flag,Unknown,https://leetcode.com/problems/sort-colors-dutch-national-flag/
+33,Book Allocation Problem,Unknown,
+152,Maximum Product Subarray,Unknown,https://leetcode.com/problems/maximum-product-subarray/
+35,Floor in a Sorted Array,Unknown,
+34,First and Last Position of Element in Sorted Array,Unknown,https://leetcode.com/problems/first-and-last-position-of-element-in-sorted-array/
+125,Valid Palindrome,Unknown,https://leetcode.com/problems/valid-palindrome/
+151,Reverse Words in a String,Unknown,https://leetcode.com/problems/reverse-words-in-a-string/
+443,String Compression,Unknown,https://leetcode.com/problems/string-compression/
+3121,Number of Special Characters II,Unknown,https://leetcode.com/problems/number-of-special-characters-ii/
+567,Permutation in String,Unknown,https://leetcode.com/problems/permutation-in-string/
+42,String Manipulation Basics & Syntax,Unknown,
+74,Search a 2D Matrix,Unknown,https://leetcode.com/problems/search-a-2d-matrix/
+240,Search a 2D Matrix II,Unknown,https://leetcode.com/problems/search-a-2d-matrix-ii/
+54,Spiral Matrix,Unknown,https://leetcode.com/problems/spiral-matrix/
+560,Subarray Sum Equals K,Unknown,https://leetcode.com/problems/subarray-sum-equals-k/
+287,Find the Duplicate Number,Unknown,https://leetcode.com/problems/find-the-duplicate-number/
+2965,Find Missing and Repeated Values,Unknown,https://leetcode.com/problems/find-missing-and-repeated-values/
+15,3Sum,Unknown,https://leetcode.com/problems/3sum/
+18,4Sum,Unknown,https://leetcode.com/problems/4sum/
+51,Sum of Matrix Border Elements,Unknown,
+52,Check if Array is Sorted,Unknown,
+509,Fibonacci Number,Unknown,https://leetcode.com/problems/fibonacci-number/
+704,Binary Search,Unknown,https://leetcode.com/problems/binary-search/
+125,Valid Palindrome Check,Unknown,https://leetcode.com/problems/valid-palindrome-check/
+78,Subsets / Power Set,Unknown,https://leetcode.com/problems/subsets-power-set/
+90,Subsets II,Unknown,https://leetcode.com/problems/subsets-ii/
+46,Permutations,Unknown,https://leetcode.com/problems/permutations/
+39,Combination Sum,Unknown,https://leetcode.com/problems/combination-sum/
+60,Merge Sort Implementation,Unknown,
+61,Quick Sort Implementation,Unknown,
+62,Rat in a Maze,Unknown,
+2596,Check Knight Tour Configuration,Unknown,https://leetcode.com/problems/check-knight-tour-configuration/
+51,N-Queens Backtracking,Unknown,https://leetcode.com/problems/n-queens-backtracking/
+37,Sudoku Solver,Unknown,https://leetcode.com/problems/sudoku-solver/
+62,Unique Paths,Unknown,https://leetcode.com/problems/unique-paths/
+67,Singly Linked List Implementation & Basics,Unknown,
+206,Reverse Linked List,Unknown,https://leetcode.com/problems/reverse-linked-list/
+876,Middle of the Linked List,Unknown,https://leetcode.com/problems/middle-of-the-linked-list/
+141,Linked List Cycle Detection,Unknown,https://leetcode.com/problems/linked-list-cycle-detection/
+21,Merge Two Sorted Lists,Unknown,https://leetcode.com/problems/merge-two-sorted-lists/
+138,Copy List with Random Pointer,Unknown,https://leetcode.com/problems/copy-list-with-random-pointer/
+73,Doubly Linked List Implementation & Basics,Unknown,
+74,Circular Linked List Implementation & Basics,Unknown,
+430,Flatten a Multilevel Doubly Linked List,Unknown,https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+25,Reverse Nodes in k-Group,Unknown,https://leetcode.com/problems/reverse-nodes-in-k-group/
+24,Swap Nodes in Pairs,Unknown,https://leetcode.com/problems/swap-nodes-in-pairs/
+237,Delete Node in a Linked List,Unknown,https://leetcode.com/problems/delete-node-in-a-linked-list/
+19,Remove Nth Node From End of List,Unknown,https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+92,Reverse Linked List II,Unknown,https://leetcode.com/problems/reverse-linked-list-ii/
+2,Add Two Numbers,Unknown,https://leetcode.com/problems/add-two-numbers/
+61,Rotate List,Unknown,https://leetcode.com/problems/rotate-list/
+83,Stack Implementation using Array/Vector,Unknown,
+20,Valid Parentheses,Unknown,https://leetcode.com/problems/valid-parentheses/
+901,Online Stock Span,Unknown,https://leetcode.com/problems/online-stock-span/
+901,Online Stock Span,Unknown,https://leetcode.com/problems/online-stock-span/
+87,Next Greater Element,Unknown,
+496,Next Greater Element I,Unknown,https://leetcode.com/problems/next-greater-element-i/
+89,Previous Smaller Element,Unknown,
+155,Min Stack Design,Unknown,https://leetcode.com/problems/min-stack-design/
+155,Min Stack Design,Unknown,https://leetcode.com/problems/min-stack-design/
+84,Largest Rectangle in Histogram,Unknown,https://leetcode.com/problems/largest-rectangle-in-histogram/
+503,Next Greater Element II,Unknown,https://leetcode.com/problems/next-greater-element-ii/
+42,Trapping Rain Water,Unknown,https://leetcode.com/problems/trapping-rain-water/
+95,The Celebrity Problem,Unknown,
+146,LRU Cache,Unknown,https://leetcode.com/problems/lru-cache/
+97,Queue Implementation using Linked List,Unknown,
+225,Implement Stack using Queues,Unknown,https://leetcode.com/problems/implement-stack-using-queues/
+232,Implement Queue using Stacks,Unknown,https://leetcode.com/problems/implement-queue-using-stacks/
+387,First Unique Character in a String,Unknown,https://leetcode.com/problems/first-unique-character-in-a-string/
+134,Gas Station,Unknown,https://leetcode.com/problems/gas-station/
+239,Sliding Window Maximum,Unknown,https://leetcode.com/problems/sliding-window-maximum/
+103,Reverse First K Elements of Queue,Unknown,
+2073,Time Needed to Buy Tickets,Unknown,https://leetcode.com/problems/time-needed-to-buy-tickets/
+105,Binary Tree Implementation & Traversals,Unknown,
+94,Binary Tree Inorder Traversal,Unknown,https://leetcode.com/problems/binary-tree-inorder-traversal/
+102,Binary Tree Level Order Traversal,Unknown,https://leetcode.com/problems/binary-tree-level-order-traversal/
+108,Build Binary Tree  & BFS Traversal,Unknown,
+100,Same Tree,Unknown,https://leetcode.com/problems/same-tree/
+572,Subtree of Another Tree,Unknown,https://leetcode.com/problems/subtree-of-another-tree/
+530,Minimum Absolute Difference in BST,Unknown,https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+104,Maximum Depth of Binary Tree,Unknown,https://leetcode.com/problems/maximum-depth-of-binary-tree/
+543,Diameter of Binary Tree,Unknown,https://leetcode.com/problems/diameter-of-binary-tree/
+114,Top View of Binary Tree,Unknown,
+115,Print Nodes at K-th Level,Unknown,
+116,Bottom View of Binary Tree,Unknown,
+105,Construct Binary Tree from Preorder & Inorder,Unknown,https://leetcode.com/problems/construct-binary-tree-from-preorder-inorder/
+257,Binary Tree Paths,Unknown,https://leetcode.com/problems/binary-tree-paths/
+662,Maximum Width of Binary Tree,Unknown,https://leetcode.com/problems/maximum-width-of-binary-tree/
+103,Binary Tree Zigzag Level Order Traversal,Unknown,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+199,Binary Tree Right Side View,Unknown,https://leetcode.com/problems/binary-tree-right-side-view/
+700,Search in a Binary Search Tree,Unknown,https://leetcode.com/problems/search-in-a-binary-search-tree/
+701,Insert into a Binary Search Tree,Unknown,https://leetcode.com/problems/insert-into-a-binary-search-tree/
+108,Convert Sorted Array to Binary Search Tree,Unknown,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+98,Validate Binary Search Tree,Unknown,https://leetcode.com/problems/validate-binary-search-tree/
+783,Minimum Distance Between BST Nodes,Unknown,https://leetcode.com/problems/minimum-distance-between-bst-nodes/
+230,Kth Smallest Element in a BST,Unknown,https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+128,Basics,Unknown,
+129,Graph Implementation,Unknown,
+130,Depth First Search  traversal,Unknown,
+131,Breadth First Search  traversal,Unknown,
+132,Detect Cycle in Undirected Graph,Unknown,
+133,Detect Cycle in Directed Graph,Unknown,
+994,Rotting Oranges,Unknown,https://leetcode.com/problems/rotting-oranges/
+135,Topological Sort,Unknown,
+200,Number of Islands,Unknown,https://leetcode.com/problems/number-of-islands/
+207,Course Schedule,Unknown,https://leetcode.com/problems/course-schedule/
+210,Course Schedule II,Unknown,https://leetcode.com/problems/course-schedule-ii/
+733,Flood Fill Algorithm,Unknown,https://leetcode.com/problems/flood-fill-algorithm/
+140,Topological Sort,Unknown,
+141,Fibonacci509,Unknown,
+198,House Robber,Unknown,https://leetcode.com/problems/house-robber/
+143,Frog Jump Gfg,Unknown,
+144,Unique Path62,Unknown,
+145,House Robber2 213 Lc,Unknown,
+146,Min Cost Stair746,Unknown,
+147,Frac Knap Sack,Unknown,
