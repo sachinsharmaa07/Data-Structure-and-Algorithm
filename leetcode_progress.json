@@ -168,7 +168,15 @@
       "date": "2026-10-16",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Customer Who Visited but Did Not Make Any Transactions",
+      "titleSlug": "customer-who-visited-but-did-not-make-any-transactions",
+      "timestamp": 1792166104,
+      "date": "2026-10-16",
+      "lang": "mysql",
+      "category": "SQL"
     }
   ],
-  "lastSyncedAt": "2026-10-16T11:26:59+00:00"
+  "lastSyncedAt": "2026-10-16T16:41:07+00:00"
 }

@@ -38,3 +38,4 @@
 
 ## 2026-10-16
 - **DSA:** [Flood Fill](https://leetcode.com/problems/flood-fill/) — `cpp`
+- **SQL:** [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) — `mysql`
