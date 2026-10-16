@@ -176,7 +176,31 @@
       "date": "2026-10-16",
       "lang": "mysql",
       "category": "SQL"
+    },
+    {
+      "title": "Replace Employee ID With The Unique Identifier",
+      "titleSlug": "replace-employee-id-with-the-unique-identifier",
+      "timestamp": 1792173263,
+      "date": "2026-10-16",
+      "lang": "mysql",
+      "category": "SQL"
+    },
+    {
+      "title": "Product Sales Analysis I",
+      "titleSlug": "product-sales-analysis-i",
+      "timestamp": 1792173624,
+      "date": "2026-10-16",
+      "lang": "mysql",
+      "category": "SQL"
+    },
+    {
+      "title": "Daily Leads and Partners",
+      "titleSlug": "daily-leads-and-partners",
+      "timestamp": 1792174130,
+      "date": "2026-10-16",
+      "lang": "mysql",
+      "category": "SQL"
     }
   ],
-  "lastSyncedAt": "2026-10-16T16:41:07+00:00"
+  "lastSyncedAt": "2026-10-16T21:11:18+00:00"
 }

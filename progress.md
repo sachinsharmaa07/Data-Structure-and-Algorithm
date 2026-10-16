@@ -39,3 +39,6 @@
 ## 2026-10-16
 - **DSA:** [Flood Fill](https://leetcode.com/problems/flood-fill/) — `cpp`
 - **SQL:** [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) — `mysql`
+- **SQL:** [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) — `mysql`
+- **SQL:** [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) — `mysql`
+- **SQL:** [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) — `mysql`
