@@ -1,0 +1,166 @@
+{
+  "username": "sachinsharmaa07",
+  "problems": [
+    {
+      "title": "Top K Frequent Elements",
+      "titleSlug": "top-k-frequent-elements",
+      "timestamp": 1790223562,
+      "date": "2026-09-24",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Valid Palindrome",
+      "titleSlug": "valid-palindrome",
+      "timestamp": 1790398328,
+      "date": "2026-09-26",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Two Sum II - Input Array Is Sorted",
+      "titleSlug": "two-sum-ii-input-array-is-sorted",
+      "timestamp": 1790398970,
+      "date": "2026-09-26",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Valid Sudoku",
+      "titleSlug": "valid-sudoku",
+      "timestamp": 1791298732,
+      "date": "2026-10-06",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Contains Duplicate",
+      "titleSlug": "contains-duplicate",
+      "timestamp": 1791345219,
+      "date": "2026-10-07",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "timestamp": 1791345542,
+      "date": "2026-10-07",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "timestamp": 1791349452,
+      "date": "2026-10-07",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "timestamp": 1791349836,
+      "date": "2026-10-07",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Concatenation of Array",
+      "titleSlug": "concatenation-of-array",
+      "timestamp": 1791904474,
+      "date": "2026-10-13",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "timestamp": 1791905179,
+      "date": "2026-10-13",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Majority Element",
+      "titleSlug": "majority-element",
+      "timestamp": 1791905392,
+      "date": "2026-10-13",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Recyclable and Low Fat Products",
+      "titleSlug": "recyclable-and-low-fat-products",
+      "timestamp": 1791997339,
+      "date": "2026-10-14",
+      "lang": "mysql",
+      "category": "SQL"
+    },
+    {
+      "title": "Find Customer Referee",
+      "titleSlug": "find-customer-referee",
+      "timestamp": 1791997873,
+      "date": "2026-10-14",
+      "lang": "mysql",
+      "category": "SQL"
+    },
+    {
+      "title": "Big Countries",
+      "titleSlug": "big-countries",
+      "timestamp": 1791998115,
+      "date": "2026-10-14",
+      "lang": "mysql",
+      "category": "SQL"
+    },
+    {
+      "title": "Article Views I",
+      "titleSlug": "article-views-i",
+      "timestamp": 1791998513,
+      "date": "2026-10-14",
+      "lang": "mysql",
+      "category": "SQL"
+    },
+    {
+      "title": "Invalid Tweets",
+      "titleSlug": "invalid-tweets",
+      "timestamp": 1791999407,
+      "date": "2026-10-14",
+      "lang": "mysql",
+      "category": "SQL"
+    },
+    {
+      "title": "Employees Earning More Than Their Managers",
+      "titleSlug": "employees-earning-more-than-their-managers",
+      "timestamp": 1792000052,
+      "date": "2026-10-14",
+      "lang": "mysql",
+      "category": "SQL"
+    },
+    {
+      "title": "Duplicate Emails",
+      "titleSlug": "duplicate-emails",
+      "timestamp": 1792000779,
+      "date": "2026-10-14",
+      "lang": "mysql",
+      "category": "SQL"
+    },
+    {
+      "title": "Number of Provinces",
+      "titleSlug": "number-of-provinces",
+      "timestamp": 1792038840,
+      "date": "2026-10-15",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "timestamp": 1792043445,
+      "date": "2026-10-15",
+      "lang": "cpp",
+      "category": "DSA"
+    }
+  ],
+  "lastSyncedAt": "2026-10-15T05:51:13+00:00"
+}

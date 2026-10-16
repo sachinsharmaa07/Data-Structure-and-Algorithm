@@ -309,6 +309,20 @@ g++ -std=c++17 -o main <path-to-file>.cpp
 
 ---
 
+<!-- LEETCODE_PROGRESS_START -->
+## 📊 LeetCode Progress (automatically synced)
+
+- **Tracked accepted problems:** 20
+- **DSA:** 13
+- **SQL:** 7
+- **LeetCode profile:** https://leetcode.com/u/sachinsharmaa07/
+- **Daily log:** [progress.md](progress.md)
+
+> This section counts unique accepted problems observed by this repository's sync. The public LeetCode feed only exposes a limited number of recent accepted submissions, so this is not guaranteed to be your complete historical LeetCode total.
+<!-- LEETCODE_PROGRESS_END -->
+
+---
+
 ## 🚀 LeetCode Card
 Check out my profile at LeetCode:
 👉 **Profile**: [leetcode.com/u/sachinsharmaa07/](https://leetcode.com/u/sachinsharmaa07/)
