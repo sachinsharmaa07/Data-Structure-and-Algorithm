@@ -35,3 +35,6 @@
 ## 2026-10-15
 - **DSA:** [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) — `cpp`
 - **DSA:** [Number of Islands](https://leetcode.com/problems/number-of-islands/) — `cpp`
+
+## 2026-10-16
+- **DSA:** [Flood Fill](https://leetcode.com/problems/flood-fill/) — `cpp`
