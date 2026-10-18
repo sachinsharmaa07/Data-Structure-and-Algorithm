@@ -200,7 +200,15 @@
       "date": "2026-10-16",
       "lang": "mysql",
       "category": "SQL"
+    },
+    {
+      "title": "Rotting Oranges",
+      "titleSlug": "rotting-oranges",
+      "timestamp": 1792336871,
+      "date": "2026-10-18",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-10-18T11:08:17+00:00"
+  "lastSyncedAt": "2026-10-18T15:53:22+00:00"
 }

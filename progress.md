@@ -42,3 +42,6 @@
 - **SQL:** [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) — `mysql`
 - **SQL:** [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) — `mysql`
 - **SQL:** [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) — `mysql`
+
+## 2026-10-18
+- **DSA:** [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) — `cpp`
