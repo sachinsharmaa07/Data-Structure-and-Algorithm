@@ -45,3 +45,6 @@
 
 ## 2026-10-18
 - **DSA:** [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) — `cpp`
+
+## 2026-10-19
+- **SQL:** [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) — `mysql`

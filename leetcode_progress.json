@@ -208,7 +208,15 @@
       "date": "2026-10-18",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Customers Who Never Order",
+      "titleSlug": "customers-who-never-order",
+      "timestamp": 1792392785,
+      "date": "2026-10-19",
+      "lang": "mysql",
+      "category": "SQL"
     }
   ],
-  "lastSyncedAt": "2026-10-19T04:42:44+00:00"
+  "lastSyncedAt": "2026-10-19T13:19:41+00:00"
 }
