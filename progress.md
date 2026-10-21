@@ -48,3 +48,8 @@
 
 ## 2026-10-19
 - **SQL:** [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) — `mysql`
+
+## 2026-10-21
+- **DSA:** [Two Sum](https://leetcode.com/problems/two-sum/) — `cpp`
+- **SQL:** [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) — `mysql`
+- **SQL:** [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) — `mysql`
