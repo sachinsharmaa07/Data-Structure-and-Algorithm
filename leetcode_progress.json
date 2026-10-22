@@ -240,7 +240,23 @@
       "date": "2026-10-21",
       "lang": "mysql",
       "category": "SQL"
+    },
+    {
+      "title": "Longest Common Prefix",
+      "titleSlug": "longest-common-prefix",
+      "timestamp": 1792643281,
+      "date": "2026-10-22",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Remove Element",
+      "titleSlug": "remove-element",
+      "timestamp": 1792643480,
+      "date": "2026-10-22",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-10-21T21:44:25+00:00"
+  "lastSyncedAt": "2026-10-22T04:49:47+00:00"
 }

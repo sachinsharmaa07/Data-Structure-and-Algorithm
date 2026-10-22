@@ -53,3 +53,7 @@
 - **DSA:** [Two Sum](https://leetcode.com/problems/two-sum/) — `cpp`
 - **SQL:** [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) — `mysql`
 - **SQL:** [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) — `mysql`
+
+## 2026-10-22
+- **DSA:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) — `cpp`
+- **DSA:** [Remove Element](https://leetcode.com/problems/remove-element/) — `cpp`
