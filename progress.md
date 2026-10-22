@@ -57,3 +57,4 @@
 ## 2026-10-22
 - **DSA:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) — `cpp`
 - **DSA:** [Remove Element](https://leetcode.com/problems/remove-element/) — `cpp`
+- **DSA:** [Sort Colors](https://leetcode.com/problems/sort-colors/) — `cpp`
