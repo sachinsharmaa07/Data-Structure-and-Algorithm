@@ -58,3 +58,5 @@
 - **DSA:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) — `cpp`
 - **DSA:** [Remove Element](https://leetcode.com/problems/remove-element/) — `cpp`
 - **DSA:** [Sort Colors](https://leetcode.com/problems/sort-colors/) — `cpp`
+- **DSA:** [Design HashSet](https://leetcode.com/problems/design-hashset/) — `cpp`
+- **DSA:** [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — `cpp`

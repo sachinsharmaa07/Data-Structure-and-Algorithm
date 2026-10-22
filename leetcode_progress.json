@@ -264,7 +264,23 @@
       "date": "2026-10-22",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "timestamp": 1792690030,
+      "date": "2026-10-22",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Design HashSet",
+      "titleSlug": "design-hashset",
+      "timestamp": 1792692932,
+      "date": "2026-10-22",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-10-22T17:12:24+00:00"
+  "lastSyncedAt": "2026-10-22T21:37:31+00:00"
 }
