@@ -60,3 +60,6 @@
 - **DSA:** [Sort Colors](https://leetcode.com/problems/sort-colors/) — `cpp`
 - **DSA:** [Design HashSet](https://leetcode.com/problems/design-hashset/) — `cpp`
 - **DSA:** [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — `cpp`
+
+## 2026-10-23
+- **DSA:** [Design HashMap](https://leetcode.com/problems/design-hashmap/) — `cpp`

@@ -312,8 +312,8 @@ g++ -std=c++17 -o main <path-to-file>.cpp
 <!-- LEETCODE_PROGRESS_START -->
 ## 📊 LeetCode Progress (automatically synced)
 
-- **Tracked accepted problems:** 35
-- **DSA:** 21
+- **Tracked accepted problems:** 36
+- **DSA:** 22
 - **SQL:** 14
 - **LeetCode profile:** https://leetcode.com/u/sachinsharmaa07/
 - **Daily log:** [progress.md](progress.md)

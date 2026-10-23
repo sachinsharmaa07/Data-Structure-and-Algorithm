@@ -280,7 +280,15 @@
       "date": "2026-10-22",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Design HashMap",
+      "titleSlug": "design-hashmap",
+      "timestamp": 1792727397,
+      "date": "2026-10-23",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-10-22T21:37:31+00:00"
+  "lastSyncedAt": "2026-10-23T04:52:11+00:00"
 }
