@@ -63,3 +63,6 @@
 
 ## 2026-10-23
 - **DSA:** [Design HashMap](https://leetcode.com/problems/design-hashmap/) — `cpp`
+
+## 2026-10-24
+- **DSA:** [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) — `cpp`

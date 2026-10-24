@@ -288,7 +288,15 @@
       "date": "2026-10-23",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Find Pivot Index",
+      "titleSlug": "find-pivot-index",
+      "timestamp": 1792842045,
+      "date": "2026-10-24",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-10-24T11:03:46+00:00"
+  "lastSyncedAt": "2026-10-24T15:58:23+00:00"
 }
