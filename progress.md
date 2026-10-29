@@ -73,3 +73,6 @@
 
 ## 2026-10-26
 - **DSA:** [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) — `cpp`
+
+## 2026-10-29
+- **DSA:** [Island Perimeter](https://leetcode.com/problems/island-perimeter/) — `cpp`

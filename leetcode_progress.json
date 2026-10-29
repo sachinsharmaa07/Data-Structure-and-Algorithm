@@ -320,7 +320,15 @@
       "date": "2026-10-26",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Island Perimeter",
+      "titleSlug": "island-perimeter",
+      "timestamp": 1793253336,
+      "date": "2026-10-29",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-10-29T05:50:17+00:00"
+  "lastSyncedAt": "2026-10-29T13:04:00+00:00"
 }
