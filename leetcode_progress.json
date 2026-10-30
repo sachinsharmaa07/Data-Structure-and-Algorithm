@@ -328,7 +328,23 @@
       "date": "2026-10-29",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Course Schedule",
+      "titleSlug": "course-schedule",
+      "timestamp": 1793354106,
+      "date": "2026-10-30",
+      "lang": "cpp",
+      "category": "DSA"
+    },
+    {
+      "title": "Course Schedule II",
+      "titleSlug": "course-schedule-ii",
+      "timestamp": 1793354973,
+      "date": "2026-10-30",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-10-30T05:51:38+00:00"
+  "lastSyncedAt": "2026-10-30T12:57:59+00:00"
 }

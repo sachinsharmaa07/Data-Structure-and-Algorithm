@@ -76,3 +76,7 @@
 
 ## 2026-10-29
 - **DSA:** [Island Perimeter](https://leetcode.com/problems/island-perimeter/) — `cpp`
+
+## 2026-10-30
+- **DSA:** [Course Schedule](https://leetcode.com/problems/course-schedule/) — `cpp`
+- **DSA:** [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) — `cpp`
