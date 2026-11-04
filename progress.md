@@ -83,3 +83,6 @@
 
 ## 2026-10-31
 - **DSA:** [Clone Graph](https://leetcode.com/problems/clone-graph/) — `cpp`
+
+## 2026-11-04
+- **DSA:** [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) — `cpp`

@@ -352,7 +352,15 @@
       "date": "2026-10-31",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Swap Nodes in Pairs",
+      "titleSlug": "swap-nodes-in-pairs",
+      "timestamp": 1793810753,
+      "date": "2026-11-04",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-11-04T06:25:44+00:00"
+  "lastSyncedAt": "2026-11-04T19:46:56+00:00"
 }
