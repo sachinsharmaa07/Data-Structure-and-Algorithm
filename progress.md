@@ -86,3 +86,6 @@
 
 ## 2026-11-04
 - **DSA:** [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) — `cpp`
+
+## 2026-11-15
+- **DSA:** [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) — `cpp`

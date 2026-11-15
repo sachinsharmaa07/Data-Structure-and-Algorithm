@@ -360,7 +360,15 @@
       "date": "2026-11-04",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Search a 2D Matrix",
+      "titleSlug": "search-a-2d-matrix",
+      "timestamp": 1794716241,
+      "date": "2026-11-15",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-11-14T22:26:06+00:00"
+  "lastSyncedAt": "2026-11-15T06:35:29+00:00"
 }
