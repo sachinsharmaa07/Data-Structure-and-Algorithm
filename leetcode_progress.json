@@ -368,7 +368,15 @@
       "date": "2026-11-15",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Subarray Sum Equals K",
+      "titleSlug": "subarray-sum-equals-k",
+      "timestamp": 1795024360,
+      "date": "2026-11-18",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-11-18T07:31:21+00:00"
+  "lastSyncedAt": "2026-11-18T20:33:13+00:00"
 }

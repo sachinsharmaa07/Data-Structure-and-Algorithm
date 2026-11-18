@@ -89,3 +89,6 @@
 
 ## 2026-11-15
 - **DSA:** [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) — `cpp`
+
+## 2026-11-18
+- **DSA:** [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) — `cpp`
