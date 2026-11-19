@@ -376,7 +376,15 @@
       "date": "2026-11-18",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Palindrome Number",
+      "titleSlug": "palindrome-number",
+      "timestamp": 1795104157,
+      "date": "2026-11-19",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-11-19T07:27:38+00:00"
+  "lastSyncedAt": "2026-11-19T20:39:11+00:00"
 }

@@ -92,3 +92,6 @@
 
 ## 2026-11-18
 - **DSA:** [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) — `cpp`
+
+## 2026-11-19
+- **DSA:** [Palindrome Number](https://leetcode.com/problems/palindrome-number/) — `cpp`
