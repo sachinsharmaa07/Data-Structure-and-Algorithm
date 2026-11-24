@@ -384,7 +384,15 @@
       "date": "2026-11-19",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Network Delay Time",
+      "titleSlug": "network-delay-time",
+      "timestamp": 1795499676,
+      "date": "2026-11-24",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-11-23T23:54:58+00:00"
+  "lastSyncedAt": "2026-11-24T09:56:04+00:00"
 }
