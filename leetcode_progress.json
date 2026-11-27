@@ -392,7 +392,15 @@
       "date": "2026-11-24",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Contiguous Array",
+      "titleSlug": "contiguous-array",
+      "timestamp": 1795800861,
+      "date": "2026-11-27",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-11-27T08:36:50+00:00"
+  "lastSyncedAt": "2026-11-27T21:18:48+00:00"
 }

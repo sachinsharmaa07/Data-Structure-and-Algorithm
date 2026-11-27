@@ -98,3 +98,6 @@
 
 ## 2026-11-24
 - **DSA:** [Network Delay Time](https://leetcode.com/problems/network-delay-time/) — `cpp`
+
+## 2026-11-27
+- **DSA:** [Contiguous Array](https://leetcode.com/problems/contiguous-array/) — `cpp`
