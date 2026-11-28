@@ -101,3 +101,6 @@
 
 ## 2026-11-27
 - **DSA:** [Contiguous Array](https://leetcode.com/problems/contiguous-array/) — `cpp`
+
+## 2026-11-28
+- **DSA:** [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) — `cpp`

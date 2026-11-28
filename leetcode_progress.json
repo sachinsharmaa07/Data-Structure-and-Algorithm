@@ -400,7 +400,15 @@
       "date": "2026-11-27",
       "lang": "cpp",
       "category": "DSA"
+    },
+    {
+      "title": "Count Number of Nice Subarrays",
+      "titleSlug": "count-number-of-nice-subarrays",
+      "timestamp": 1795845121,
+      "date": "2026-11-28",
+      "lang": "cpp",
+      "category": "DSA"
     }
   ],
-  "lastSyncedAt": "2026-11-27T21:18:48+00:00"
+  "lastSyncedAt": "2026-11-28T07:51:25+00:00"
 }
